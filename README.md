@@ -10,4 +10,5 @@ Atualmente, estou desenvolvendo o código com base neste diagrama, seguindo os p
 
 ---
 
-Sinta-se à vontade para explorar o projeto e contribuir com sugestões!
+Sinta-se à vontade para explorar o projeto e contribuir com sugestões! <br>
+Fonte Desenhos: https://ascii-art.botecodigital.dev.br/converter-texto-ascii
