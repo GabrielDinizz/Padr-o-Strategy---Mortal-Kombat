@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -38,7 +38,7 @@ namespace Padrão_Strategy___Mortal_Kombat
                 habilidadeAtual.Add(habilidade);
             }
 
-            public void ativarHabilidade(int numHabilidade) {
+            public void AtivarHabilidade(int numHabilidade) {
                 habilidadeAtual[numHabilidade].AtivarHabilidade();
             }
 
